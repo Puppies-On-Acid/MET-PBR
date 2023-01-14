@@ -1,7 +1,14 @@
 # MET-PBR
 OpenMW 0.48+  PBR and Normal maps for Morrowind Enhanced Textures
 
-This requires OpenMW 0.48 or newer and Zesterer's OpenMW core shaders https://github.com/zesterer/openmw-shaders
+Requirements:
+
+OpenMW 0.48 or newer https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2019_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo
+
+https://github.com/zesterer/openmw-shaders
+
+https://www.nexusmods.com/morrowind/mods/46221 
+(this will also work with Intelligent Textures.....probably)
 
 ![Base Profile Screenshot 2023 01 08 - 23 27 23 40 (2)](https://user-images.githubusercontent.com/121469754/211416989-e2b351d9-2a1c-4814-93f2-7772174ff3ca.png)
 
